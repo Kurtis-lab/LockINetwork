@@ -30,9 +30,8 @@ Le découpage suit le cursus CCNA v7.0 (ITN, SRWE, ENSA) :
 2. **Objectifs** — ce qui doit être fonctionnel à la fin
 3. **Topologie** — matrice de câblage et plan d'adressage
 4. **Configuration** — commandes IOS utilisées
-5. **Bonus (optionnel)** — nuances entre le comportement du simulateur et un déploiement réel
 
 ## Licence
 MIT (2026). Scénarios et topologies sont des créations originales ; aucun fichier système Cisco ni document sous droit d'auteur n'est distribué ici.
----
+
 *Un projet de vulgarisation de l'ingénierie réseau, en français.*
